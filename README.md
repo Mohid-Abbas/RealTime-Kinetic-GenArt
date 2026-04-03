@@ -1,0 +1,2 @@
+# RealTime-Kinetic-GenArt
+A high-performance Computer Vision system that bridges the gap between human kinematics and generative art. This project leverages MediaPipe's blazingly fast landmark detection to drive a custom 2D physics engine, transforming live human motion into dynamic, ethereal particle systems. By implementing Motion History Imaging (MHI) and temporal analysis, the system creates a "digital aura" that reacts fluidly to the user’s speed, posture, and gestures.
